@@ -11,7 +11,7 @@
       <am:Name>PBIRB</am:Name>
       <am:Version>15.7.1819.28</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2026-06-25T17:06:00.0022443Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2026-06-29T19:53:09.4193878Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -202,6 +202,380 @@
         &lt;SalesPrice&gt;450&lt;/SalesPrice&gt;
         &lt;Discount&gt;0&lt;/Discount&gt;
         &lt;Amount&gt;25200&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;A0021&lt;/Item&gt;
+        &lt;Description&gt;Wireless Headset Pro&lt;/Description&gt;
+        &lt;Quantity&gt;45&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;120&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;5400&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;A0022&lt;/Item&gt;
+        &lt;Description&gt;Bluetooth Soundbar 300W&lt;/Description&gt;
+        &lt;Quantity&gt;15&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;340&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;5100&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;M0009&lt;/Item&gt;
+        &lt;Description&gt;Studio Microphone XLR&lt;/Description&gt;
+        &lt;Quantity&gt;8&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;195&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;1560&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;K0012&lt;/Item&gt;
+        &lt;Description&gt;HDMI 2.1 Cable 5m&lt;/Description&gt;
+        &lt;Quantity&gt;150&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;25&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;3750&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;T0018&lt;/Item&gt;
+        &lt;Description&gt;Smart TV Dongle 4K&lt;/Description&gt;
+        &lt;Quantity&gt;60&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;65&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;3900&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;S0044&lt;/Item&gt;
+        &lt;Description&gt;Subwoofer 500W Active&lt;/Description&gt;
+        &lt;Quantity&gt;10&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;480&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;4800&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;B0081&lt;/Item&gt;
+        &lt;Description&gt;TV Wall Mount Bracket&lt;/Description&gt;
+        &lt;Quantity&gt;42&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;45&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;1890&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;A0099&lt;/Item&gt;
+        &lt;Description&gt;Audio Mixer 8-Channel&lt;/Description&gt;
+        &lt;Quantity&gt;4&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;310&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;1240&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;P0102&lt;/Item&gt;
+        &lt;Description&gt;Portable Projector Screen&lt;/Description&gt;
+        &lt;Quantity&gt;18&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;150&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;2700&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;H0033&lt;/Item&gt;
+        &lt;Description&gt;Hi-Fi Stereo Amplifier&lt;/Description&gt;
+        &lt;Quantity&gt;7&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;890&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;6230&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;R0015&lt;/Item&gt;
+        &lt;Description&gt;Universal Remote Control&lt;/Description&gt;
+        &lt;Quantity&gt;85&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;30&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;2550&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;C0055&lt;/Item&gt;
+        &lt;Description&gt;Ceiling Speaker Pair&lt;/Description&gt;
+        &lt;Quantity&gt;24&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;180&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;4320&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;O0022&lt;/Item&gt;
+        &lt;Description&gt;Optical Audio Cable 2m&lt;/Description&gt;
+        &lt;Quantity&gt;200&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;12&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;2400&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;V0041&lt;/Item&gt;
+        &lt;Description&gt;Vinyl Record Player&lt;/Description&gt;
+        &lt;Quantity&gt;11&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;260&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;2860&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;T0088&lt;/Item&gt;
+        &lt;Description&gt;TV Stand Wooden Black&lt;/Description&gt;
+        &lt;Quantity&gt;14&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;210&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;2940&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;E0010&lt;/Item&gt;
+        &lt;Description&gt;In-Ear Noise Cancelling Pods&lt;/Description&gt;
+        &lt;Quantity&gt;75&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;85&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;6375&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;W0032&lt;/Item&gt;
+        &lt;Description&gt;Wireless Audio Transmitter&lt;/Description&gt;
+        &lt;Quantity&gt;30&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;55&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;1650&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;M0051&lt;/Item&gt;
+        &lt;Description&gt;Microphone Boom Arm Stand&lt;/Description&gt;
+        &lt;Quantity&gt;40&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;40&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;1600&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;K0090&lt;/Item&gt;
+        &lt;Description&gt;Karaoke System with 2 Mics&lt;/Description&gt;
+        &lt;Quantity&gt;9&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;399&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;3591&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;S0012&lt;/Item&gt;
+        &lt;Description&gt;Speaker Wall Mounts (Pair)&lt;/Description&gt;
+        &lt;Quantity&gt;55&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;35&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;1925&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;34567&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;S0012&lt;/Item&gt;
+        &lt;Description&gt;Speaker Wall Mounts (Pair)&lt;/Description&gt;
+        &lt;Quantity&gt;55&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;35&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;1926&lt;/Amount&gt;
+        &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
+        &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
+        &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
+        &lt;BankAccountNum&gt;3454&lt;/BankAccountNum&gt;
+        &lt;ShowTotals1&gt;YES&lt;/ShowTotals1&gt;
+        &lt;CurrencySymbol&gt;$&lt;/CurrencySymbol&gt;
+        &lt;CashDisc&gt;0&lt;/CashDisc&gt;
+      &lt;/Row&gt;
+      &lt;Row&gt;
+        &lt;Company&gt;Microsoft&lt;/Company&gt;
+        &lt;InvoiceId&gt;000007-1&lt;/InvoiceId&gt;
+        &lt;Item&gt;S0012&lt;/Item&gt;
+        &lt;Description&gt;Speaker Wall Mounts (Pair)&lt;/Description&gt;
+        &lt;Quantity&gt;46&lt;/Quantity&gt;
+        &lt;SalesPrice&gt;35&lt;/SalesPrice&gt;
+        &lt;Discount&gt;0&lt;/Discount&gt;
+        &lt;Amount&gt;14&lt;/Amount&gt;
         &lt;SalesUnitTxt&gt;Each&lt;/SalesUnitTxt&gt;
         &lt;FormLetterRemarksTxt&gt;Sales invoice notes&lt;/FormLetterRemarksTxt&gt;
         &lt;HeaderNotes&gt;&lt;/HeaderNotes&gt;
@@ -930,6 +1304,7 @@
               <TablixMembers>
                 <TablixMember>
                   <KeepWithGroup>After</KeepWithGroup>
+                  <RepeatOnNewPage>true</RepeatOnNewPage>
                 </TablixMember>
                 <TablixMember>
                   <Group Name="Szczegóły" />
@@ -937,7 +1312,7 @@
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>SalesInvoiceDS</DataSetName>
-            <Top>1.5cm</Top>
+            <Top>1.64111cm</Top>
             <Height>1.2cm</Height>
             <Width>16.5cm</Width>
             <Style>
@@ -946,6 +1321,21 @@
               </Border>
             </Style>
           </Tablix>
+          <Image Name="Invoice_Icon">
+            <Source>Embedded</Source>
+            <Value>InvoiceIcon</Value>
+            <Sizing>FitProportional</Sizing>
+            <Top>0.14111cm</Top>
+            <Left>16.5cm</Left>
+            <Height>1.5cm</Height>
+            <Width>1.5cm</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
           <Textbox Name="ReportTitle">
             <rd:WatermarkTextbox>Title</rd:WatermarkTextbox>
             <rd:DefaultName>ReportTitle</rd:DefaultName>
@@ -955,7 +1345,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>=Globals!ReportName</Value>
+                    <Value>Invoices</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>28pt</FontSize>
@@ -966,9 +1356,10 @@
               </Paragraph>
             </Paragraphs>
             <Top>0mm</Top>
+            <Left>0cm</Left>
             <Height>1.5cm</Height>
             <Width>16.5cm</Width>
-            <ZIndex>1</ZIndex>
+            <ZIndex>2</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -979,22 +1370,8 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
-          <Image Name="Invoice_Icon">
-            <Source>Embedded</Source>
-            <Value>InvoiceIcon</Value>
-            <Sizing>FitProportional</Sizing>
-            <Left>16.5cm</Left>
-            <Height>1.5cm</Height>
-            <Width>1.5cm</Width>
-            <ZIndex>2</ZIndex>
-            <Style>
-              <Border>
-                <Style>None</Style>
-              </Border>
-            </Style>
-          </Image>
         </ReportItems>
-        <Height>57.15mm</Height>
+        <Height>58.56111mm</Height>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1003,6 +1380,76 @@
       </Body>
       <Width>18cm</Width>
       <Page>
+        <PageHeader>
+          <Height>2.21472cm</Height>
+          <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Textbox Name="ReportName">
+              <rd:DefaultName>ReportName</rd:DefaultName>
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value />
+                      <Style>
+                        <FontSize>16pt</FontSize>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <Height>0.75cm</Height>
+              <Width>18cm</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+            <Textbox Name="Textbox2">
+              <rd:DefaultName>Textbox2</rd:DefaultName>
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>Invoices</Value>
+                      <Style>
+                        <FontSize>16pt</FontSize>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <Height>0.75cm</Height>
+              <Width>18cm</Width>
+              <ZIndex>1</ZIndex>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+          </ReportItems>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </PageHeader>
         <PageFooter>
           <Height>13.37658mm</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
@@ -1027,6 +1474,7 @@
                   </Style>
                 </Paragraph>
               </Paragraphs>
+              <Top>0cm</Top>
               <Left>13cm</Left>
               <Height>6.35mm</Height>
               <Width>5cm</Width>
@@ -1057,6 +1505,7 @@
                   </Style>
                 </Paragraph>
               </Paragraphs>
+              <Top>0cm</Top>
               <Left>8cm</Left>
               <Height>0.6cm</Height>
               <Width>2cm</Width>
