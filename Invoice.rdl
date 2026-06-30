@@ -11,7 +11,7 @@
       <am:Name>PBIRB</am:Name>
       <am:Version>15.7.1819.28</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2026-06-29T19:53:09.4193878Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2026-06-30T17:47:30.5812728Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -1658,6 +1658,14 @@
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>SalesInvoiceDS</DataSetName>
+            <SortExpressions>
+              <SortExpression>
+                <Value>=Fields!Amount.Value</Value>
+              </SortExpression>
+              <SortExpression>
+                <Value>=Fields!Item.Value</Value>
+              </SortExpression>
+            </SortExpressions>
             <Top>1.64111cm</Top>
             <Height>2.4cm</Height>
             <Width>14.11396cm</Width>
@@ -1702,7 +1710,6 @@
               </Paragraph>
             </Paragraphs>
             <Top>0mm</Top>
-            <Left>0cm</Left>
             <Height>1.5cm</Height>
             <Width>16.5cm</Width>
             <ZIndex>2</ZIndex>
